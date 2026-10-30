@@ -83,3 +83,18 @@ I am continuously improving my skills in Power BI, SQL, Excel, and data analytic
 ## 🏷️ Tags
 
 #Power BI #Data Analytics #DAX #Dashboard #Data Visualization #Excel #CodeAlpha
+
+## 🖼️ Dashboard Screenshots
+
+### Page 1: Executive Overview
+![Executive Overview](Dashboard_Screenshots/Page1_Executive_Overview.png)
+
+### Page 2: Student Performance Analysis
+![Student Performance Analysis](Dashboard_Screenshots/Page2_Student_Performance.png)
+
+### Page 3: Resource Analysis
+![Resource Analysis](Dashboard_Screenshots/Page3_Resource_Analysis.png)
+
+### Page 4: Resource Gap Analysis
+![Resource Gap Analysis](Dashboard_Screenshots/Page4_Resource_Gap_Analysis.png)
+
