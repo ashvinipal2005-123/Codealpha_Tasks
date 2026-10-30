@@ -86,8 +86,6 @@ I am continuously improving my skills in Power BI, SQL, Excel, and data analytic
 
 ## 🖼️ Dashboard Screenshots
 
-## 🖼️ Dashboard Screenshots
-
 ### Page 1: Executive Overview
 ![Executive Overview](./Dashboard_Sreenshots/Page1_Executive_Overview.png)
 
