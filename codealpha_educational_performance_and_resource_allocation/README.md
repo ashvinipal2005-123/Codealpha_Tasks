@@ -21,25 +21,25 @@ The project focuses on analyzing student academic performance and evaluating the
 
 Provides an overall summary of student performance and educational resources through KPI cards and interactive visualizations.
 
-![Executive Overview](Dashboard_Sreenshots/Page1_Executive_Overview.png)
+![Executive Overview](Dashboard_Screenshots/Page1_Executive_Overview.png)
 
 ### 2. Student Performance Analysis
 
 Analyzes student marks distribution, average marks, attendance, pass/fail distribution, and academic performance across different categories.
 
-![Student Performance Analysis](Dashboard_Sreenshots/Page2_Student_Performance.png)
+![Student Performance Analysis](Dashboard_Screenshots/Page2_Student_Performance.png)
 
 ### 3. Resource Analysis
 
 Evaluates teacher availability, computers per 100 students, classroom resources, and department-wise budget utilization.
 
-![Resource Analysis](Dashboard_Sreenshots/Page3_Resource_Analysis.png)
+![Resource Analysis](Dashboard_Screenshots/Page3_Resource_Analysis.png)
 
 ### 4. Resource Gap Analysis
 
 Identifies potential shortages and surpluses in teachers, computers, and classrooms using calculated resource requirements.
 
-![Resource Gap Analysis](Dashboard_Sreenshots/Page4_Resource_Gap_Analysis.png)
+![Resource Gap Analysis](Dashboard_Screenshots/Page4_Resource_Gap_Analysis.png)
 
 ## 🛠️ Tools & Technologies
 
